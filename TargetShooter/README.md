@@ -15,5 +15,3 @@
           
 **CREDITS** - The pictures used in showing points on the screen.
           Author - Coloringbuddymike
-
-To run this version, put all the png files in a folder call assets
